@@ -1,6 +1,6 @@
 # SGE-Requests
 
-#$ -M khuebner@physnet.uni-hamburg.de -m ea
+#$ -M akhan@physnet.uni-hamburg.de -m ea
 #$ -o .
 #$ -q graphix.q
 #$ -cwd
